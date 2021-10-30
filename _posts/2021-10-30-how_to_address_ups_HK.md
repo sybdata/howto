@@ -25,7 +25,7 @@ Yuet Ming Building	                          (ggf. Gebäude-Bezeichnung)
 
 123 Chong Yip St.	                            (Hausnummer) (Strasse)
 
-KWAI CHUNG	                                  (Ort)
+KWAI CHUNG    	                              (Ort)
 
 NEW TERRITORIES	                              (Provinz)
 
