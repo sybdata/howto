@@ -29,6 +29,6 @@ KWAI CHUNG   -   (Ort)
 
 NEW TERRITORIES   -   (Provinz)
 
-HONG KONG (PEOPLES REPUBLIC OF CHINA)	        (Land)
+HONG KONG (PEOPLES REPUBLIC OF CHINA)   -   (Land)
 ```
 In diesem Fall ist Frau Wáng in Apartment 18 im 14. Stock des Yuet Ming Hauses anzutreffen. Dieses Haus steht in der Chong Yip Street mit Hausnummer 123 im Ort Kwai Chung, der in der Provinz New Territories liegt. Andere mögliche Territorien wäre neben den New Territories auch Hong Kong Island, Kowloon oder die Outlying Islands.
