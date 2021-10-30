@@ -17,17 +17,17 @@ Eine Postleitzahl (Hong Kong PLZ, Hong Kong ZIP-Code, Hong Kong Postcode, etc.) 
 In einem älteren Adressformat konnte die Provinz auch hinter den Ort geschrieben werden, z.B. "KWAI CHUNG, N.T." für die New Territories. Dieses Format sollten Sie aber heutzutage nicht mehr verwenden.
 
 ```
-Li Wáng	                                      (Empfänger*in)
+Li Wáng   -   (Empfänger*in)
 
-Flat 18, 14/F	                                (ggf. Appartement und Stockwerk)
+Flat 18, 14/F   -   (ggf. Appartement und Stockwerk)
 
-Yuet Ming Building	                          (ggf. Gebäude-Bezeichnung)
+Yuet Ming Building   -   (ggf. Gebäude-Bezeichnung)
 
-123 Chong Yip St.	                            (Hausnummer) (Strasse)
+123 Chong Yip St.   -   (Hausnummer) (Strasse)
 
-KWAI CHUNG    	                              (Ort)
+KWAI CHUNG   -   (Ort)
 
-NEW TERRITORIES	                              (Provinz)
+NEW TERRITORIES   -   (Provinz)
 
 HONG KONG (PEOPLES REPUBLIC OF CHINA)	        (Land)
 ```
