@@ -16,6 +16,9 @@ Eine Postleitzahl (Hong Kong PLZ, Hong Kong ZIP-Code, Hong Kong Postcode, etc.) 
 
 In einem älteren Adressformat konnte die Provinz auch hinter den Ort geschrieben werden, z.B. "KWAI CHUNG, N.T." für die New Territories. Dieses Format sollten Sie aber heutzutage nicht mehr verwenden.
 
+Beispieladresse Hongkong
+Und so könnte eine typische Adresse in Hongkong aussehen:
+
 ```
 Li Wáng   -   (Empfänger*in)
 
