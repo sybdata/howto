@@ -16,7 +16,7 @@ Eine Postleitzahl (Hong Kong PLZ, Hong Kong ZIP-Code, Hong Kong Postcode, etc.) 
 
 In einem älteren Adressformat konnte die Provinz auch hinter den Ort geschrieben werden, z.B. "KWAI CHUNG, N.T." für die New Territories. Dieses Format sollten Sie aber heutzutage nicht mehr verwenden.
 
-
+```ruby
 Li Wáng	(Empfänger*in)
 Flat 18, 14/F	(ggf. Appartement und Stockwerk)
 Yuet Ming Building	(ggf. Gebäude-Bezeichnung)
@@ -24,4 +24,5 @@ Yuet Ming Building	(ggf. Gebäude-Bezeichnung)
 KWAI CHUNG	(Ort)
 NEW TERRITORIES	(Provinz)
 HONG KONG (PEOPLES REPUBLIC OF CHINA)	(Land)
+```
 In diesem Fall ist Frau Wáng in Apartment 18 im 14. Stock des Yuet Ming Hauses anzutreffen. Dieses Haus steht in der Chong Yip Street mit Hausnummer 123 im Ort Kwai Chung, der in der Provinz New Territories liegt. Andere mögliche Territorien wäre neben den New Territories auch Hong Kong Island, Kowloon oder die Outlying Islands.
