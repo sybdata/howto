@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sybdata)](https://github.com/sybdata/github-profile-trophy)
+
 
 # Minimal Mistakes remote theme starter
 
